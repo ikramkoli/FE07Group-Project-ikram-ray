@@ -4,7 +4,7 @@ body {
   font-family: "roboto";
 }
 
-header {
+.head {
   display: flex;
   align-items: flex-end;
   background-color: #ffffff;
@@ -14,18 +14,18 @@ header {
   padding-bottom: 15.53px;
 }
 
-nav {
+.navigasi {
   display: flex;
   justify-items: space-around;
 }
 
-nav ul {
+.navigasi .ul {
   display: flex;
   align-items: center;
   margin-left: 391px;
 }
 
-nav ul li a {
+.navigasi .ul .li .a {
   text-decoration: none;
   font-family: "Roboto", sans-serif;
   color: #19345e;
@@ -85,7 +85,7 @@ nav ul li :hover {
   align-items: center;
 }
 
-.jumbotron img {
+.jumbotron .image {
   top: 251px;
   left: 160px;
   width: 420px;
@@ -156,6 +156,13 @@ p {
   justify-content: center;
   color: #ffffff;
   opacity: 1;
+}
+
+.button .imgbutton {
+  float: left;
+  width: 20px;
+  height: 20px;
+  padding-right: 5px;
 }
 
 /* .headline {
