@@ -1,0 +1,140 @@
+/* navbar */
+.contact {
+  width: 130px;
+  height: 38px;
+  text-align: center;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #f47522;
+  border-radius: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  text-decoration: none;
+  background-color: #ffff;
+}
+
+.header ul li {
+  display: inline-block;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.sidemenu {
+  text-decoration: none;
+  margin: 2.42282879195px 157px 2.42282879195px 1.69597315436px;
+  float: right;
+}
+
+.list {
+  text-decoration: none;
+  font: 12.5px arial;
+  font-weight: bold;
+  color: #19345e;
+  margin-left: 25px;
+}
+
+.list.contact {
+  color: #fff;
+  padding: 5px.5px 33px;
+  margin-left: 49.65px;
+}
+
+.header a:hover {
+  color: #f47522;
+}
+
+/* kontak */
+.areajudul {
+  height: 176px;
+  text-align: center;
+  padding: 60px 100px;
+}
+.judul {
+  font-size: 45px;
+  font-family: "Muli", sans-serif;
+  font-weight: 700;
+  color: #19345e;
+}
+.judul:after,
+.judul:before {
+  content: "\2014";
+  color: #f47522;
+}
+/* kotak kiri */
+.tulisan {
+  text-align: left;
+  font: normal normal normal 18px/24px Poppins;
+  letter-spacing: 0px;
+  color: #19345e;
+}
+
+.narasi {
+  text-align: left;
+  font: normal normal normal 16px/30px Poppins;
+  letter-spacing: 0px;
+  color: #19345e;
+}
+
+/* form */
+label {
+  text-align: left;
+  font: normal normal normal 16px/30px Poppins;
+  letter-spacing: 0px;
+}
+
+/* button orange */
+.button {
+  width: 227.5px;
+  height: 41.5px;
+  background-color: #f47522;
+  border-radius: 25px;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12.5px;
+  text-decoration: none;
+  font: 12.5px;
+  text-align: center;
+  margin-top: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+
+.send {
+  width: 62px;
+}
+
+.send-message {
+  width: 20px;
+  height: 20px;
+  float: right;
+  margin-top: 10px;
+}
+
+.tombol {
+  width: 165.5px;
+  float: right;
+}
+
+.list-button {
+  color: #fff;
+  float: left;
+  margin-top: -16px;
+  margin-left: 15px;
+}
+
+/* footer */
+
+.sosmed {
+  text-align: left;
+  font: normal normal normal 14px/12px Arial;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+
+.cpright {
+  text-align: left;
+  font: normal normal normal 14px/12px Muli;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
